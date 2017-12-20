@@ -162,7 +162,11 @@
                         <outlet property="echoButton" destination="qS3-wo-j2z" id="dDb-vA-lWe"/>
                         <outlet property="fastButton" destination="ayw-zM-vLu" id="fUy-ib-BOv"/>
                         <outlet property="highPitchButton" destination="lOE-Rj-3w2" id="Kbm-la-lxq"/>
+                        <outlet property="innerStackView1" destination="Ic7-fi-mDZ" id="XNz-bs-TmM"/>
+                        <outlet property="innerStackView2" destination="lJV-qe-RVP" id="TPn-Nu-21o"/>
+                        <outlet property="innerStackView3" destination="yWO-u1-i9P" id="XgL-FT-pHX"/>
                         <outlet property="lowPitchButton" destination="fQF-Ne-f15" id="AA5-n3-cKT"/>
+                        <outlet property="outerStackView" destination="PSf-HI-dtf" id="1YY-rh-PoQ"/>
                         <outlet property="reverbButton" destination="4RZ-bD-Lcd" id="FoI-xY-Qpz"/>
                         <outlet property="slowButton" destination="QSm-le-rcb" id="daf-dj-Mho"/>
                         <outlet property="stopButton" destination="9LW-y3-1g2" id="4Ly-jA-jPn"/>
